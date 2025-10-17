@@ -1,0 +1,19 @@
+li {
+  width: 20rem;
+  text-align: center;
+}
+
+li img {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  margin-bottom: 1rem;
+}
+
+li h3 {
+  margin: 0.5rem 0;
+}
+
+li p {
+  font-size: 0.9rem;
+}
